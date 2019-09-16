@@ -1,9 +1,12 @@
 # Individual Capstone Assessment
 
-## Introduction
+## Project Introduction
 
 Stern Pinball has donated pinball flippers, pop bumpers, slingshots and other pinball machine parts for a pinball machine.
 These parts are to be used by my team to design and build a functioning pinball machine.
+We will be combining these parts with microcontrollers and distributed PCBs that we will be organizing and programming as part of this capstone project.
+This project will be a deep dive into embedded systems programming and systems engineering.
+We may also need to provide an external API for controlling the pinball machine for use in future research project.
 The design of this machine will be used in an upcoming Pinball Mechatronics course.
 
 ## College Coursework Experience
@@ -41,3 +44,7 @@ We will design and program an embedded system to control the pinball machine tha
 This system will control the various mechanical parts of the pinball machine.
 We will also design a playfield for the machine and a rule set with multiple different states activated by certain shots.
 After this work is completed, we may team up with students from DAAP to assist with the playfield design and theme.
+
+**We have the first team meeting on Tuesday 9/17 after class.**
+**As of now I'm not sure what the preliminary approach will fully look like.**
+**I will be adding more information to this document after that meeting.**
